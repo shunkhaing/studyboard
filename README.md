@@ -13,23 +13,8 @@ StudyBoard is a Discord bot that keeps one live message showing who is streaming
 
 The board is one bot message in `#now-streaming`. The bot edits it in place and never posts a new one.
 
-```
-┃ #now-streaming · StudyBoard
-┃
-┃ Studying (2)
-┃  (MK) Maya   Lo-fi beats · 1h 20m · Lofi room              [Join]
-┃  (JT) Jay    Electronic · 35m · Electronic room             [Join]
-┃ ─────────────────────────────────────────────────────────────
-┃ On break (1)
-┃  (SK) Shun   Valorant · 10m · Break room                    [Join]
-┃ ─────────────────────────────────────────────────────────────
-┃ Lecture (1)
-┃  (AL) Ana    CSC 413 recording · 50m · Lecture room         [Join]
-┃
-┃ Updated a few seconds ago
+<img width="820" height="520" alt="studyboard-demo" src="https://github.com/user-attachments/assets/7fe7a1ea-bf6a-4afe-8ff6-1cacd88f561a" />
 
-[Set my vibe]  [Go on break]  [Clear status]
-```
 
 *Names and statuses are placeholders.*
 
